@@ -1,0 +1,3 @@
+sudo yum install ansible --enablerepo=epel
+sudo pip install ansible
+ansible
